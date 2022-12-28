@@ -2,10 +2,10 @@
 
 # Halo Guys!
 
-*Nama Lengkap    : Muhammad Aqsal Sirulah Sodik
-*NIM             : 1207050068
-*Program Studi   : Teknik Informatika
-*Dosen Pengampu  : Aldy Riyaldy Atmadja. M.T.
+* Nama Lengkap    : Muhammad Aqsal Sirulah Sodik
+* NIM             : 1207050068
+* Program Studi   : Teknik Informatika
+* Dosen Pengampu  : Aldy Riyaldy Atmadja. M.T.
 
 Screenshot Running App
 ![1](https://user-images.githubusercontent.com/72060370/209762098-2df33e87-af6f-47e3-a30a-5b44b78e2308.jpg) ![2](https://user-images.githubusercontent.com/72060370/209762123-fb678c4d-282e-4ab2-8087-8acac402d26c.jpg)
